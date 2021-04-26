@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<!--    <Preference-->
+<!--        app:key="help"-->
+<!--        app:title="도움말"-->
+<!--        app:summary="앱 이용 도움말입니다." />-->
+
+    <Preference
+        app:key="reset"
+        app:title="기록 초기화"
+        app:summary="앱 뉴스 설정 정보를 초기화합니다."/>
+
+    <Preference
+        app:key="email"
+        app:title="문의 메일 보내기"
+        app:summary="앱 이용 중 문의사항을 문의메일로 보내주세요." />
+
+</PreferenceScreen>

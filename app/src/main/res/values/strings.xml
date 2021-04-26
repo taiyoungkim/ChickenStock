@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Chicken Stock</string>
+
+    <!--Bottom navigation bar-->
+    <string name="bot_nav_home">Home</string>
+    <string name="bot_nav_add">Add</string>
+    <string name="bot_nav_compare">Compare</string>
+    <string name="bot_nav_setting">Setting</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dart_key">35e54410aeb3e7dffb0dea5226efe3f69ea56439</string>
+<!--    <string name="format">%1$tY/%1$tm/%1$td</string>-->
+</resources>

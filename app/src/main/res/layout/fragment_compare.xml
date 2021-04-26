@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+        <variable
+            name="viewmodel"
+            type="com.ktyoung.chickenstock.viewmodel.MultiAcntViewModel" />
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/multi_acnt"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="5dp"
+        tools:context=".ui.main.MultiAcntFragment">
+
+        <AutoCompleteTextView
+            android:id="@+id/autoCompleteTextView"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:hint="검색할 기업을 입력"
+            android:onItemClickListener="@{(parent, view, position, id) -> viewmodel.onItemClick(parent, position)}"
+            android:singleLine="true"
+            android:text="@={viewmodel.selectedText}"
+            android:textSize="15dp"
+            app:layout_constraintEnd_toStartOf="@+id/autoCompleteTextView2"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/year_picker"
+            app:layout_constraintWidth_percent="0.4" />
+
+        <AutoCompleteTextView
+            android:id="@+id/autoCompleteTextView2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:hint="검색할 기업을 입력"
+            android:onItemClickListener="@{(parent, view, position, id) -> viewmodel.onItemClick2(parent, position)}"
+            android:singleLine="true"
+            android:text="@={viewmodel.selectedText2}"
+            android:textSize="15dp"
+            android:layout_marginRight="10dp"
+            app:layout_constraintEnd_toStartOf="@+id/compare"
+            app:layout_constraintTop_toBottomOf="@+id/year_picker"
+            app:layout_constraintWidth_percent="0.4" />
+
+        <EditText
+            android:id="@+id/year_picker"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:editable="false"
+            android:focusable="false"
+            android:gravity="center"
+            android:text="@={viewmodel.selectedYear}"
+            android:textSize="15dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/report_code_spinner"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Spinner
+            android:id="@+id/company_profile_grade_spinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:entries="@array/fs_div"
+            android:selectedItemPosition="@={viewmodel.spinnerSelectedPosition}"
+            app:layout_constraintBottom_toTopOf="@+id/autoCompleteTextView"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintStart_toStartOf="@+id/autoCompleteTextView"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <Spinner
+            android:id="@+id/report_code_spinner"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:entries="@array/fs_report"
+            android:selectedItemPosition="@={viewmodel.reposrtSelectedPosition}"
+            app:layout_constraintBottom_toTopOf="@+id/autoCompleteTextView2"
+            app:layout_constraintEnd_toStartOf="@+id/year_picker"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/company_profile_grade_spinner"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageButton
+            android:id="@+id/compare"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:src="@drawable/ic_baseline_search_24"
+            android:backgroundTint="@color/navy"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:onClick="@{() -> viewmodel.onCompare(@string/dart_key)}"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/year_picker"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rvItems"
+            items2="@{viewmodel.acntList}"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/autoCompleteTextView"
+            tools:listitem="@layout/item_acnt" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

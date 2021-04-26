@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <data>
+            <variable
+                name="viewmodel"
+                type="com.ktyoung.chickenstock.viewmodel.AddNewsViewModel" />
+        </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/tv_and_title"
+            android:text="[AND] 다음 키워드는 모두 동시에 포함"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <EditText
+            android:id="@+id/et_add_and"
+            android:text="@={viewmodel.etAnd}"
+            android:singleLine="true"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@+id/tv_and_title"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintWidth_percent="0.7" />
+
+        <Button
+            android:id="@+id/btn_add_and"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="추가하기"
+            android:onClick="@{() -> viewmodel.onAddAndClick()}"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/et_add_and"
+            app:layout_constraintTop_toBottomOf="@+id/tv_and_title"
+            app:layout_constraintWidth_percent="0.25" />
+
+        <TextView
+            android:id="@+id/tv_or_title"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:text="[OR] 다음 키워드 중 하나 이상 포함"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/et_add_and" />
+
+        <EditText
+            android:id="@+id/et_add_or"
+            android:visibility="gone"
+            android:text="@={viewmodel.etOr}"
+            android:singleLine="true"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@+id/tv_or_title"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintWidth_percent="0.7" />
+
+        <Button
+            android:id="@+id/btn_add_or"
+            android:visibility="gone"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="추가하기"
+            android:onClick="@{() -> viewmodel.onAddOrClick()}"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/et_add_or"
+            app:layout_constraintTop_toBottomOf="@+id/tv_or_title"
+            app:layout_constraintWidth_percent="0.25" />
+
+        <TextView
+            android:id="@+id/tv_not_title"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:text="[NOT] 다음 키워드는 모두 제외"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/et_add_or" />
+
+        <EditText
+            android:id="@+id/et_add_not"
+            android:visibility="gone"
+            android:singleLine="true"
+            android:text="@={viewmodel.etNot}"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@+id/tv_not_title"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintWidth_percent="0.7" />
+
+        <Button
+            android:id="@+id/btn_add_not"
+            android:visibility="gone"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="추가하기"
+            android:onClick="@{() -> viewmodel.onAddNotClick()}"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/et_add_not"
+            app:layout_constraintTop_toBottomOf="@+id/tv_not_title"
+            app:layout_constraintWidth_percent="0.25" />
+
+        <LinearLayout
+            android:id="@+id/add_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/et_add_and" />
+
+        <LinearLayout
+            android:id="@+id/or_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/et_add_or" />
+
+        <LinearLayout
+            android:id="@+id/not_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/et_add_not" />
+
+        <TextView
+            android:id="@+id/tv_news_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:text="뉴스 이름 지정"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/not_layout" />
+
+        <EditText
+            android:id="@+id/et_news_name"
+            android:text="@={viewmodel.etTitle}"
+            android:singleLine="true"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintTop_toBottomOf="@+id/tv_news_name"
+            app:layout_constraintLeft_toLeftOf="parent" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</layout>

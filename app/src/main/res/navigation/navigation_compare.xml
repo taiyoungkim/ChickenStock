@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/compare"
+    app:startDestination="@id/compareFragment">
+
+    <fragment
+        android:id="@+id/compareFragment"
+        android:name="com.ktyoung.chickenstock.view.CompareFragment"
+        android:label="비교하기" />
+</navigation>
