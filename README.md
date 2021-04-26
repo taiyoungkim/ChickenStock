@@ -1,3 +1,3 @@
 # ChickenStock
 
-MVVM + Databinding + LiveData
+MVVM + Databinding + LiveData + Coroutine
