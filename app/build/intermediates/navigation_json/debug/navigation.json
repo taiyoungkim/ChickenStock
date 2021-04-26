@@ -1,0 +1,22 @@
+[
+  {
+    "name": "navigation_home",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "navigation_add",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "navigation_setting",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "navigation_compare",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/layout_fragment_add_news.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/layout/fragment_add_news.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/menu_actionbar_button.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/menu/actionbar_button.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/drawable_ic_baseline_home_24.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/drawable/ic_baseline_home_24.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/layout_item_news_preview.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/layout/item_news_preview.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/drawable_ic_baseline_add_circle_24.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/drawable/ic_baseline_add_circle_24.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/layout_dialog_setting.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/layout/dialog_setting.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/layout_fragment_news.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/layout/fragment_news.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/layout_fragment_help.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/layout/fragment_help.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/navigation_navigation_add.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/navigation/navigation_add.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/drawable_ic_baseline_create_24.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/drawable/ic_baseline_create_24.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/anim_slide_in.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/anim/slide_in.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/xml_settings_preference.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/xml/settings_preference.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/layout_item_loading.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/layout/item_loading.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/layout_item_news_setting.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/layout/item_news_setting.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/layout_fragment_home.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/drawable_ic_baseline_settings_24.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/drawable/ic_baseline_settings_24.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/layout_fragment_add.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/layout/fragment_add.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/drawable_ic_baseline_search_24.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/drawable/ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/menu_navigation_menu.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/menu/navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/navigation_navigation_compare.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/navigation/navigation_compare.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/layout_item_acnt.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/layout/item_acnt.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/layout_fragment_setting.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/layout/fragment_setting.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/xml_helps_preference.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/xml/helps_preference.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/anim_fade_out.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/layout_year_picker_dialog.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/layout/year_picker_dialog.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/color_selector_bot_nav_color.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/color/selector_bot_nav_color.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/anim_fade_in.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/drawable_ic_baseline_compare_24.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/drawable/ic_baseline_compare_24.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/navigation_navigation_setting.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/navigation/navigation_setting.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/drawable_ic_baseline_delete_24.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/drawable/ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/layout_fragment_compare.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/layout/fragment_compare.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/drawable_ic_baseline.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/drawable/ic_baseline.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/layout_custom_toolbar.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/layout/custom_toolbar.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/anim_slide_out.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/anim/slide_out.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/navigation_navigation_home.xml.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/navigation/navigation_home.xml"
+    },
+    {
+        "merged": "/Users/kimtaeyeong/repo/android/ChickenStock/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    }
+]
