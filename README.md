@@ -3,7 +3,7 @@
 MVVM + Databinding + LiveData + Coroutine
 
 MVVM
-<img width="202" alt="MVVM" src="https://developer.android.com/topic/libraries/architecture/images/final-architecture.png">
+<img width="404" alt="MVVM" src="https://developer.android.com/topic/libraries/architecture/images/final-architecture.png">
 
 * 스크린샷
 
