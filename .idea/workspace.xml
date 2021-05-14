@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da3a1986-eac1-4e33-a560-367c478a34bf" name="Default Changelist" comment="Initial Commit&#10;&#10;base functional work finish." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Enum" />
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Object" />
+        <option value="valueResourceFile" />
+        <option value="Kotlin File" />
+        <option value="navigationResourceFile" />
+        <option value="layoutResourceFile" />
+        <option value="Kotlin Data Class" />
+        <option value="resourceFile" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qmbIn8QBD14Z9Nd5frQiEOaW59" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="emulator-5554" />
+    <property name="DEBUGGABLE_PROCESS" value="com.ktyoung.chickenstock" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android-custom-view/Users/kimtaeyeong/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_SELECTED" value="RecyclerView" />
+    <property name="android-custom-view/Users/kimtaeyeong/Library/Android/sdk/sources/android-30/android/view/View.java_SELECTED" value="View" />
+    <property name="android-custom-view/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/java/com/ktyoung/chickenstock/util/RecyclerViewEmptySupport.kt_SELECTED" value="RecyclerViewEmptySupport" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/assets" />
+    <property name="multi-representation-preview/Users/kimtaeyeong/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.1.0/f2bdf79e1977939817f54a9d3e2f6bc52b63bdd0/recyclerview-1.1.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/Users/kimtaeyeong/Library/Android/sdk/sources/android-30/android/view/View.java_selected" value="Custom views" />
+    <property name="multi-representation-preview/Users/kimtaeyeong/repo/android/ChickenStock/app/src/main/java/com/ktyoung/chickenstock/util/RecyclerViewEmptySupport.kt_selected" value="Custom views" />
+    <property name="settings.editor.selected.configurable" value="memory.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.-46507956">
+      <recent name="com.ktyoung.chickenstock.view" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.ktyoung.chickenstock.viewmodel" />
+      <recent name="com.ktyoung.chickenstock.view" />
+    </key>
+    <key name="android.template.-147607164">
+      <recent name="com.ktyoung.chickenstock.view" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/assets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="com.ktyoung.chickenstock.viewmodel in Chicken_Stock.app" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Chicken_Stock.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ktyoung.chickenstock.viewmodel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ktyoung.chickenstock.viewmodel" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Chicken_Stock.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.com.ktyoung.chickenstock.viewmodel in Chicken_Stock.app" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da3a1986-eac1-4e33-a560-367c478a34bf" name="Default Changelist" comment="" />
+      <created>1617687634802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617687634802</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initial Commit&#10;&#10;base functional work finish.">
+      <created>1619419836750</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619419836751</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit&#10;&#10;base functional work finish." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit&#10;&#10;base functional work finish." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="618" y="221" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1618314235217">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="618" y="221" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.25.1440.875@0.25.1440.875" timestamp="1618314235217" />
+    <state x="667" y="182" key="#com.intellij.ide.util.MemberChooser" timestamp="1619192215323">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="667" y="182" key="#com.intellij.ide.util.MemberChooser/0.25.1440.875@0.25.1440.875" timestamp="1619192215323" />
+    <state x="673" y="256" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1618484889000">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="673" y="256" key="#com.intellij.ide.util.TreeClassChooserDialog/0.25.1440.875@0.25.1440.875" timestamp="1618484889000" />
+    <state x="643" y="202" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1617714469803">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="643" y="202" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.25.1440.875@0.25.1440.875" timestamp="1617714469802" />
+    <state x="661" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618318818710">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="661" y="213" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.875@0.25.1440.875" timestamp="1618318818710" />
+    <state x="724" y="259" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1617851999632">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="724" y="259" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.25.1440.875@0.25.1440.875" timestamp="1617851999632" />
+    <state x="511" y="222" key="AndroidCreateResourceDirectoryDialog" timestamp="1619076570566">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="511" y="222" key="AndroidCreateResourceDirectoryDialog/0.25.1440.875@0.25.1440.875" timestamp="1619076570566" />
+    <state x="587" y="222" key="AndroidCreateResourceFileDialog" timestamp="1619173338988">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="587" y="222" key="AndroidCreateResourceFileDialog/0.25.1440.875@0.25.1440.875" timestamp="1619173338988" />
+    <state x="687" y="213" key="AndroidProcessChooserDialog" timestamp="1619265275862">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="687" y="213" key="AndroidProcessChooserDialog/0.25.1440.875@0.25.1440.875" timestamp="1619265275862" />
+    <state width="740" height="533" key="DebuggerActiveHint" timestamp="1619265347373">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="740" height="533" key="DebuggerActiveHint/0.25.1440.875@0.25.1440.875" timestamp="1619265347373" />
+    <state x="713" y="125" width="627" height="675" key="DiffContextDialog" timestamp="1620111162696">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="713" y="125" width="627" height="675" key="DiffContextDialog/0.25.1440.875@0.25.1440.875" timestamp="1620111162696" />
+    <state width="783" height="228" key="GridCell.Tab.0.bottom" timestamp="1619421645267">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="783" height="228" key="GridCell.Tab.0.bottom/0.25.1440.875@0.25.1440.875" timestamp="1619421645267" />
+    <state width="783" height="228" key="GridCell.Tab.0.center" timestamp="1619421645266">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="783" height="228" key="GridCell.Tab.0.center/0.25.1440.875@0.25.1440.875" timestamp="1619421645266" />
+    <state width="783" height="228" key="GridCell.Tab.0.left" timestamp="1619421645265">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="783" height="228" key="GridCell.Tab.0.left/0.25.1440.875@0.25.1440.875" timestamp="1619421645265" />
+    <state width="783" height="228" key="GridCell.Tab.0.right" timestamp="1619421645266">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="783" height="228" key="GridCell.Tab.0.right/0.25.1440.875@0.25.1440.875" timestamp="1619421645266" />
+    <state width="783" height="228" key="GridCell.Tab.1.bottom" timestamp="1619421645267">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="783" height="228" key="GridCell.Tab.1.bottom/0.25.1440.875@0.25.1440.875" timestamp="1619421645267" />
+    <state width="783" height="228" key="GridCell.Tab.1.center" timestamp="1619421645267">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="783" height="228" key="GridCell.Tab.1.center/0.25.1440.875@0.25.1440.875" timestamp="1619421645267" />
+    <state width="783" height="228" key="GridCell.Tab.1.left" timestamp="1619421645267">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="783" height="228" key="GridCell.Tab.1.left/0.25.1440.875@0.25.1440.875" timestamp="1619421645267" />
+    <state width="783" height="228" key="GridCell.Tab.1.right" timestamp="1619421645267">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="783" height="228" key="GridCell.Tab.1.right/0.25.1440.875@0.25.1440.875" timestamp="1619421645267" />
+    <state x="580" y="209" key="IDE.errors.dialog" timestamp="1620127859113">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="580" y="209" key="IDE.errors.dialog/0.25.1440.875@0.25.1440.875" timestamp="1620127859113" />
+    <state x="518" y="98" key="SettingsEditor" timestamp="1618807172181">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="518" y="98" key="SettingsEditor/0.25.1440.875@0.25.1440.875" timestamp="1618807172181" />
+    <state x="713" y="125" width="627" height="675" key="ShowDiffWithBranchDialog" timestamp="1620111278590">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="713" y="125" width="627" height="675" key="ShowDiffWithBranchDialog/0.25.1440.875@0.25.1440.875" timestamp="1620111278590" />
+    <state x="626" y="199" key="Vcs.Push.Dialog.v2" timestamp="1620127687552">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="626" y="199" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1620127687552" />
+    <state width="682" height="469" key="XDebugger.FullValuePopup" timestamp="1619193467252">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state width="682" height="469" key="XDebugger.FullValuePopup/0.25.1440.875@0.25.1440.875" timestamp="1619193467252" />
+    <state x="622" y="217" width="802" height="550" key="find.popup" timestamp="1619353590353">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="622" y="217" width="802" height="550" key="find.popup/0.25.1440.875@0.25.1440.875" timestamp="1619353590353" />
+    <state x="685" y="210" key="run.anything.popup" timestamp="1618996635240">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="685" y="210" key="run.anything.popup/0.25.1440.875@0.25.1440.875" timestamp="1618996635240" />
+    <state x="664" y="215" width="670" height="676" key="search.everywhere.popup" timestamp="1619418408948">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="664" y="215" width="670" height="676" key="search.everywhere.popup/0.25.1440.875@0.25.1440.875" timestamp="1619418408948" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/ktyoung/chickenstock/viewmodel/HomeViewModel.kt</url>
+          <line>28</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/ktyoung/chickenstock/viewmodel/AddNewsRepository.kt</url>
+          <line>26</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/ktyoung/chickenstock/viewmodel/AddNewsRepository.kt</url>
+          <line>21</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/ktyoung/chickenstock/view/AddNewsFragment.kt</url>
+          <line>108</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/ktyoung/chickenstock/viewmodel/AddNewsViewModel.kt</url>
+          <line>45</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/ktyoung/chickenstock/viewmodel/MultiAcntRepository.kt</url>
+          <line>93</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/ktyoung/chickenstock/view/adapter/CorpAdapter.kt</url>
+          <line>35</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/ktyoung/chickenstock/viewmodel/MultiAcntRepository.kt</url>
+          <line>88</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/ktyoung/chickenstock/util/EmailUtils.kt</url>
+          <line>14</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/ktyoung/chickenstock/viewmodel/MultiAcntViewModel.kt</url>
+          <line>40</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/ktyoung/chickenstock/viewmodel/NewsRepository.kt</url>
+          <line>31</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="app">
+        <watch expression="doc.select(&quot;.tab_con1 .per_table&quot;)" language="kotlin" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
